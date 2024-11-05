@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Recently graduated NKUA IT & Telecommunications department. I am familiar with low level programming (C, C++) and high level programming as well (python, JS). I've been working as a frontend engineer for almost 2 years now but I'm thrilled to explore new technologies
+NKUA IT & Telecommunications department graduate. I am familiar with low level programming (C, C++) and high level programming as well (python, JS). I've been working as a frontend engineer for almost 2 years now but I'm thrilled to explore new technologies
 
 * 🌍  I'm based in Athens, Greece
 * 🤝  I'm open to collaborating on Exciting project
