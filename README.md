@@ -7,7 +7,7 @@ Software Engineer
 NKUA IT & Telecommunications department graduate. I am familiar with low level programming (C, C++) and high level programming as well (python, JS). I've been working as a frontend engineer for almost 2 years now but I'm thrilled to explore new technologies
 
 * 🌍  I'm based in Athens, Greece
-* 🤝  I'm open to collaborating on Exciting project
+* 🤝  I'm open to collaborating on exciting projects
 * ⚡  Nostalgia drive
 
 ### Skills
